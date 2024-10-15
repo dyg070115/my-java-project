@@ -22,6 +22,6 @@ public class App {
     }
 
     public String getStatus() {
-        return "OK";
+        return "OK ok 2024-10-15";
     }
 }
